@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Lab</string>
+    <string name="lab_1">Lab 1</string>
+    <string name="lab_2">Lab 2</string>
+    <string name="lab_3">Lab 3</string>
+    <string name="lab_4">Lab 4</string>
+    <string name="lab_5">Lab 5</string>
+    <string name="lab_6">Lab 6</string>
+    <string name="lab_7">Lab 7</string>
+    <string name="lab_8">Lab 8</string>
+    <string name="test_text">test text 测试文本</string>
 </resources>
